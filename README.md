@@ -1,5 +1,7 @@
 # Whatsapp-chat-analyzer
 
+[![Python package](https://github.com/0904-mansi/Whatsapp-chat-analyzer/actions/workflows/python-package.yml/badge.svg)](https://github.com/0904-mansi/Whatsapp-chat-analyzer/actions/workflows/python-package.yml)
+
 <img width="1673" alt="image" src="https://user-images.githubusercontent.com/81081105/232328220-920c0ced-febb-4aa0-abd6-7806ca7f8219.png">
 
 <img width="1673" alt="image" src="https://user-images.githubusercontent.com/81081105/232328260-400e0200-892d-4570-b4d3-b5e28ce8d166.png">
